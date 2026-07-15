@@ -101,6 +101,7 @@ The following are key columns from the unified HR dataset (derived from merging 
         *   **Scatter Plots/Bubble Charts:** To visualize relationships and correlations between numerical variables (e.g., `Tenure` vs. `Current Salary`, `Work-Life Balance Score` vs. `Absenteeism Rate`).
         *   **Gauge Charts/KPIs:** For critical summary metrics like overall turnover rate, average `Work-Life Balance Score`, and average `Salary Growth (%)`.
         *   **Table Visuals:** To display detailed `Data Dictionary` or drill-down information.
+        *   **Link Dashboard:** https://app.powerbi.com/reportEmbed?reportId=c094eeb9-fc66-49d4-9820-d31f699eff91&autoAuth=true&ctid=f7568d95-5bfd-4236-9bf4-56ef3e8c2466
 
 ### 5. Conclusions & Actionable Recommendations
 *   **Key Findings:**
