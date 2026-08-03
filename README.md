@@ -102,6 +102,8 @@ The following are key columns from the unified HR dataset (derived from merging 
         *   **Gauge Charts/KPIs:** For critical summary metrics like overall turnover rate, average `Work-Life Balance Score`, and average `Salary Growth (%)`.
         *   **Table Visuals:** To display detailed `Data Dictionary` or drill-down information.
         *   **Link Dashboard:** https://app.powerbi.com/reportEmbed?reportId=c094eeb9-fc66-49d4-9820-d31f699eff91&autoAuth=true&ctid=f7568d95-5bfd-4236-9bf4-56ef3e8c2466
+        *   <img width="1443" height="812" alt="image" src="https://github.com/user-attachments/assets/61868d76-bdf4-46c2-bccc-b7c95cdd5bd2" />
+        *   <img width="1445" height="811" alt="image" src="https://github.com/user-attachments/assets/03a8f7f2-f32f-4f7a-a486-1008460fbe4f" />
 
 ### 5. Conclusions & Actionable Recommendations
 *   **Key Findings:**
